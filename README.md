@@ -16,24 +16,24 @@ Although, I built this app just for the web.
 
 <h3>Screenshots:</h3>
 
-**Homepage**:
-<br/>
-<img src='./docs/confrencity-homepage.png' alt='confrencity homepage' width='250'>
+<h3>Homepage</h3>
 
-**Meeting Creation**:
-<br/>
-<img src='./docs/confrencity-meeting-creation-page.png' alt='confrencity meeting creation example' width='250'>
+<img src='./docs/confrencity-homepage.png' alt='confrencity homepage' width='800'>
 
-**Video calling**:
-<br/>
-<img src='./docs/confrencity-videocall.png' alt='confrencity video calling example' width='250'>
+<h3>Meeting Creation</h3>
 
-**Messaging**:
-<br/>
-<img src='./docs/confrencity-messaging.png' alt='confrencity messaging example' width='250'>
+<img src='./docs/confrencity-meeting-creation-page.png' alt='confrencity meeting creation example' width='800'>
 
-**Voting**:
-<br/>
-<img src='./docs/confrencity-voting.png' alt='confrencity voting example' width='250'>
+<h3>Video Calling</h3>
+
+<img src='./docs/confrencity-videocall.png' alt='confrencity video calling example' width='800'>
+
+<h3>Messaging</h3>
+
+<img src='./docs/confrencity-messaging.png' alt='confrencity messaging example' width='800'>
+
+<h3>Voting</h3>
+
+<img src='./docs/confrencity-voting.png' alt='confrencity voting example' width='800'>
 
 Hosted on [Netlify](https://confrencity.netlify.apps)
